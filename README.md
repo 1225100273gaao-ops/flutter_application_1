@@ -4,7 +4,7 @@ Sistema de ahorro rotativo vecinal (tanda) hecho en Flutter y construido 100% co
 
 Proyecto complementario de práctica de Desarrollo Móvil Integral.
 
-**Autor:** Aguilar Ortiz Gael Alejandro, GTID235, UTNG
+**Autor:** Aguilar Ortiz Gael Alejandro, GTID241, UTNG
 
 ## ¿Qué es una tanda?
 
